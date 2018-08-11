@@ -1,7 +1,10 @@
 # Awesome Values
 Curated list of awesome values and mission statements
 
-## Values
+## Projects
+
+## Articles
+- [How to BUIDL a Mesh Network of Human Beings](https://medium.com/gitcoin/how-to-buidl-a-mesh-network-of-human-beings-a5293ecca60a)
 
 
 ## License
