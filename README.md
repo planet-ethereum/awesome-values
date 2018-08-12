@@ -1,5 +1,8 @@
 # Awesome Values
-Curated list of awesome values and mission statements. The items in the list are in no particular order at the moment.
+A collection of values and mission statements of projects in the Ethereum ecosystem, as well as articles regarding the topic. The items in the list are in no particular order at the moment.
+
+## Ethereum Foundation Mission & Vision
+> The Ethereum Foundation’s mission is to promote and support Ethereum platform and base layer research, development and education to bring decentralized protocols and tools to the world that empower developers to produce next generation decentralized applications (dapps), and together build a more globally accessible, more free and more trustworthy Internet.
 
 ## Projects
 
