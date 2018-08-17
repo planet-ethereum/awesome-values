@@ -5,7 +5,7 @@ A collection of values and mission statements of projects in the Ethereum ecosys
 > The Ethereum Foundation’s mission is to promote and support Ethereum platform and base layer research, development and education to bring decentralized protocols and tools to the world that empower developers to produce next generation decentralized applications (dapps), and together build a more globally accessible, more free and more trustworthy Internet.
 
 ## Projects
-- [Status](https://wiki.status.im/Mission_and_Core_Values)
+- [Status](https://our.status.im/our-principles/)
 
 - [DAOstack](https://daostack.io/summary/DAOstack-Executive-Summary-en.pdf) [Page 1 - The Future of Work]
 
